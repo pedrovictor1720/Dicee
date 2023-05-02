@@ -1,0 +1,76 @@
+body {
+  background-color: #ff8800;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 1px 0 #000000;
+  font-size: 3rem;
+}
+
+p {
+  font-size: 2rem;
+}
+
+img {
+  width: 60%;
+}
+
+a{
+  margin-right: 10px;
+  color: blue;
+}
+a:link{
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 5%;
+  text-align: center;
+}
+
+/* Classes */
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  width: 40%;
+}
+
+.nav{
+  text-align: center;
+}
+
+.link{
+  padding: 20px;
+}
+.link a{
+  font-size: 15px;
+}
+
+.sobre{
+  text-align: center;
+}
+
+.sobre p{
+  width: 80%;
+  margin: auto;
+}
+
+.historia{
+  text-align: center;
+}
+
+.historia p{
+  width: 80%;
+  margin: auto;
+  font-size: 1.5rem;
+}
